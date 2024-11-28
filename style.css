@@ -1503,6 +1503,7 @@ BLOG
     background-color: #ffffff;
     border-radius: 6px 6px 0 0;
     border: 1px solid #eaeaea;
+    height: 66vh;
 }
 
 .blog-box .magnifier {
@@ -1544,6 +1545,7 @@ BLOG
     padding: 3rem 2rem;
     display: block;
     position: relative;
+    height: 35vh;
 }
 
 .blog-desc h4 a,
